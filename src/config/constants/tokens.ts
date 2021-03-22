@@ -885,8 +885,8 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://mirror.finance/',
   },
-  mir: {
-    symbol: 'BSCTrust',
+  bsct: {
+    symbol: 'bsct',
     address: {
       56: '0x0684ffcc67792c50fdc303813c7b0c00d6aa6b99',
       97: '',
